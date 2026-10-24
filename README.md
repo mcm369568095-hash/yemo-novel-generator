@@ -3,6 +3,7 @@
 > 一句灵感进去，一整章能打的成稿出来。
 
 ![Version](https://img.shields.io/badge/version-2.1.0-blue) ![Platform](https://img.shields.io/badge/平台-WorkBuddy-purple) ![Store](https://img.shields.io/badge/SkillHub-已上架-green) ![License](https://img.shields.io/badge/license-GPL--3.0-orange)
+![微信搜一搜 · 夜秣AI搞钱](assets/wechat-search.jpg)
 
 **夜秣小说生成器**是一个中文小说创作技能，跑在 [WorkBuddy](https://www.workbuddy.cn) 里。它把"写一篇小说"拆成了一座流水线：立根基 → 锁人设 → 卡质量 → 收伏笔，专治 AI 写长篇的三大绝症——**人设崩、伏笔断、水字数**。
 
@@ -61,4 +62,8 @@ git clone https://github.com/mcm369568095-hash/yemo-novel-generator.git
 
 ---
 
-**作者**：夜秣 ｜ 更多 AI 实战技能，微信公众号搜「**夜秣AI创业**」
+## 📮 关注公众号「夜秣AI搞钱」
+
+![扫码关注·夜秣AI搞钱](assets/wechat-qr.jpg)
+
+> 更多 AI 实战技能与拆解，微信搜一搜「夜秣AI搞钱」。
